@@ -1,0 +1,1 @@
+Shipra Ladies Beauty Parlour lightweight website. Upload the contents of this folder to a static web host. Video files are not embedded to keep the site below common upload limits; the Videos button opens your Facebook link.

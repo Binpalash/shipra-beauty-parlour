@@ -1,0 +1,9 @@
+{
+  "name": "Shipra Ladies Beauty Parlour",
+  "short_name": "Shipra Beauty",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8fb",
+  "theme_color": "#b51f63",
+  "icons": []
+}
